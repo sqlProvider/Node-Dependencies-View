@@ -2,7 +2,7 @@
 	"name": "node-dependencies-view",
 	"displayName": "Node Dependencies View",
 	"description": "Manage Node Dep. via VSCode's view API",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "sqlprovider",
 	"engines": {
 		"vscode": "^1.13.0"
@@ -73,7 +73,6 @@
 		"@types/node": "*"
 	},
 	"dependencies": {
-		"jsonc-parser": "^0.4.2",
-		"ftp": "^0.3.10"
+		"jsonc-parser": "^0.4.2"
 	}
 }
